@@ -1,3 +1,3 @@
 # Devconf 2022
 
-Slides available at: [https://slides.com/d/0CVmQFU](https://slides.com/d/0CVmQFU)
+Slides available at: [https://slides.com/schalkventer/devconf-2022](https://slides.com/schalkventer/devconf-2022)
